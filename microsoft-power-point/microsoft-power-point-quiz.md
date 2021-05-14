@@ -333,3 +333,11 @@ Personal Hint: There are multiple file suffixes for templates (.potx, .potm, .po
 - [ ] Select the icon in a SmartArt Icon Diagram.
 - [ ] Select Insert Icon and place it on top of the SmartArt Diagram.
 - [ ] Select a SmartArt shape and select Insert Icon.
+
+
+#### Q44. How can you duplicate a slide quickly in PowerPOint?
+
+- [ ] Double-click the slide to duplicate.
+- [ ] Select the slide to duplicate and then, on the HOME tab, select Move and then Paste.
+- [ ] Select slide to duplicate and then, on the HOME tab, select Move and then Paste
+- [x] Right-Click the slide to duplicate and select Duplicate Slide.
